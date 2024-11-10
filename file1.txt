@@ -1,2 +1,7 @@
 first file
+<<<<<<< HEAD
 line from user2
+=======
+change from user1 firstfile.txtaaaa
+adafsfgsdfgsdfgsdfgsdfgsdfgsdg
+>>>>>>> b2c8db054d215108315f2ea93d496c1ea6893efe
