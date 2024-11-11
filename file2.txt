@@ -5,4 +5,4 @@ another line from user2
 second fjafasdf
 new commit2222
 ssssssgfgdsfgdsfgdsfgsdfgsdg
-
+critical bug fix
